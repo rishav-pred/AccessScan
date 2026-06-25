@@ -1,4 +1,4 @@
-# AccessScan
+# Access Audit
 ## Setup & Run
 
 ### 1. Install dependencies
